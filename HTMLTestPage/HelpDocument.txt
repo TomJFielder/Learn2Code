@@ -1,0 +1,3 @@
+To open the webpage right click "HTML TestPage" and select "open in firefox" OR "open in internet explorer".
+
+To edit anything you need to download Notepadd++ by going into your software centre/add programs and finding "Notepad++" in the list and select it and install. This will allow you to right click the file "HTML TestPAge" and get the option "Edit using Notepad++" where further instructions are in and shows you how to code.

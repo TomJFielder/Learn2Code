@@ -1,0 +1,4 @@
+You are able to input pictures into the HTML test page by saving an image into this folder. 
+In the code under the <img src="> section input Image/[name of your image file].[file type].
+
+The height and width can be adjusted by changing the number which respresents the pixel amount. 

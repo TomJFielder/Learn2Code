@@ -1,0 +1,7 @@
+You are able to input all file types into this folder. Just make sure to select 'properties' of your file to get it's file type so you know what you are using. I have put the most common ones in as examples.
+
+In the code under the <a href="> section input Documents/[name of your Document].[file type].
+
+For the hyperlink 'target="_blank" is telling the html to open that link in a seperate window.
+
+ 

@@ -1,0 +1,6 @@
+You are able to input videos into the HTML test page by saving a video into this folder as an mp4 preferably. 
+In the code under the <video src="> section input Video/[name of your Video file].[file type].
+
+The height and width can be adjusted by changing the number which respresents the pixel amount. 
+
+The "controls" simply means that there are controls for the video player. 
